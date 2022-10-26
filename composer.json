@@ -1,0 +1,5 @@
+{
+    "require": {
+        "servo/fluidxml": "^1.21"
+    }
+}
